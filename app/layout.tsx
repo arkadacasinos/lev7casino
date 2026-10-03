@@ -56,6 +56,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className={`${display.variable} ${body.variable}`}>
       <head>
+        <meta name="yandex-verification" content="262dde156af67192" />
         <meta name="theme-color" content="#0E3B2E" />
         <link rel="canonical" href="https://lev7casino.vercel.app/" />
         <meta name="robots" content="index, follow" />
